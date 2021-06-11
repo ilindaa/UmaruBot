@@ -1,5 +1,5 @@
 {
-    "token": "", // deleted
+    "token": "NzI5NDAwODUxMzg2NTk3NDM4.XwIZeg.ESiBHuYC-8xRkw3CzUR9sS3Xbxc",
     "prefix": "u.",
-    "mongoPass": "" // deleted
+    "mongoPass": "mongodb+srv://grannystraw:jennylisa22@umarubot.vazey.mongodb.net/accounts?retryWrites=true&w=majority" // deleted
 }
