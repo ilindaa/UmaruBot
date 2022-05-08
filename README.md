@@ -1,4 +1,4 @@
-# umaruBot Read Me
+# UmaruBot Read Me
 
 Note: doesn't include node_modules
 
