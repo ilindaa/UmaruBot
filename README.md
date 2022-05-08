@@ -2,4 +2,4 @@
 
 Note: doesn't include node_modules
 
-The token and mongoPass in botconfig.json is removed for security purposes. This is a basic Discord.js Bot with general purpose commands and a basic economy system.
+The token and mongoPass in botconfig.json is removed for security purposes. This is a basic Discord.js Bot with general purpose commands and a basic economy system. This bot was created as a practice Discord Bot for Granny's Bakery.
